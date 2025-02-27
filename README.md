@@ -18,7 +18,7 @@ Teknoloji ve Yazılım
 Veri tabanlarında bilgiler genellikle tablolar halinde saklanır.
 Excel, Google Sheets gibi yazılımlar sayesinde kullanıcılar verileri kolayca düzenleyebilir.
 Tabloların Avantajları
-Tablolar, büyük miktardaki bilgiyi özetleyerek okuyucuların bilgiyi hızlıca kavramasını sağlar. İşte tabloların sunduğu başlıca avantajlar:
+[Tablolar]([url](https://skytablo.com/)), büyük miktardaki bilgiyi özetleyerek okuyucuların bilgiyi hızlıca kavramasını sağlar. İşte tabloların sunduğu başlıca avantajlar:
 
 Düzenli ve yapılandırılmış veri sunumu: Karışık verileri anlamak ve analiz etmek kolaylaşır.
 Hızlı karşılaştırma imkanı: Farklı seçenekler arasındaki farkları kolayca görmek mümkündür.
