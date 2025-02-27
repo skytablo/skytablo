@@ -1,6 +1,5 @@
 Tabloların Önemi ve Kullanım Alanları
-[Tablolar]([url](https://skytablo.com/)), veriyi düzenli ve anlaşılır hale getirmek için kullanılan en etkili yöntemlerden biridir. Özellikle şu alanlarda sıkça kullanılırlar:
-
+https://skytablo.com/ 
 Bilimsel Araştırmalar ve Raporlar
 
 Akademik çalışmalarda verilerin daha iyi analiz edilmesini sağlamak için tablolar kullanılır.
